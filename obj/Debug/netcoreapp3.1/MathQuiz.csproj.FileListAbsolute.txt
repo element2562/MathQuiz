@@ -1,0 +1,13 @@
+C:\Users\eleme\workspace\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.exe
+C:\Users\eleme\workspace\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.deps.json
+C:\Users\eleme\workspace\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.runtimeconfig.json
+C:\Users\eleme\workspace\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.runtimeconfig.dev.json
+C:\Users\eleme\workspace\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.dll
+C:\Users\eleme\workspace\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.pdb
+C:\Users\eleme\workspace\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csprojAssemblyReference.cache
+C:\Users\eleme\workspace\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.AssemblyInfoInputs.cache
+C:\Users\eleme\workspace\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.AssemblyInfo.cs
+C:\Users\eleme\workspace\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\eleme\workspace\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.dll
+C:\Users\eleme\workspace\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.pdb
+C:\Users\eleme\workspace\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.genruntimeconfig.cache

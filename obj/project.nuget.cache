@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dvst6eZ3LhCdHn4YVVteoDzDE1+oAS+nkoaBKUe2bfyVl3wQ51DQL+Jp0xWLYtxv0X/N04dOlt5gDJx1ilm33Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eleme\\workspace\\MathQuiz\\MathQuiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eleme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
