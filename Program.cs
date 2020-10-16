@@ -39,7 +39,11 @@ namespace MathQuiz
                         i.AlreadyAnswered = true;
                         continue;
                     }
-                    else Failed = true;
+                    else
+                    {
+                        Failed = true;
+                        break;
+                    }
                 }
                 else
                 {
